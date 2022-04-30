@@ -44,4 +44,4 @@ possiable in next consecutive columns.
    Run this entire program in terminal or in jupiter/colab notebook only. Because it doesn't contains any GUI, its just a program
 
 The dataset is been taken from kaggle website and here is the link for the dataset
-https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=Symptom-severity.csv)
+https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
