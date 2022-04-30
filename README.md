@@ -34,10 +34,10 @@ possiable in next consecutive columns.
 5.We are creating another function for predicting disease,precautions and description for "new data 
   point" and returning them and simultaneously adding that datapoint to "TABLE.CSV"
 
-6.Next, getting most used symptoms(used >400 times/~4900 datapoints) and asking user to answer "yes/no"
+6.Next, getting most common symptoms by setting a threshold value(lets say 400) and asking user to answer "yes/no"
   for those symptoms i.e; weather user is having those symptoms or not.
 
-7.Using these answers, we are passing them as arguments to model and getting the possiable disease, its
+7.Using these answers we are creating new datapoint, we are passing it as arguments to predictor function and getting the possiable disease, its
   description and few precautions.And displaying it to user.
 
 **NOTE**:
