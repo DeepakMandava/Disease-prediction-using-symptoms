@@ -45,3 +45,10 @@ possiable in next consecutive columns.
 
 The dataset is been taken from kaggle website and here is the link for the dataset
 https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+
+#software requirements
+1. python(>=3.10.2)
+2. pandas(>=1.4.2)
+3. numpy(>=1.22.2)
+4. scikit-learn(>=1.0.2)
+(**Note:** This code is written with latest versions)
