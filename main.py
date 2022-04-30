@@ -33,6 +33,7 @@ def collect_data(threshold):
                     data_index = data_index+1
     return new_data
 
+
 def output(results):
     # disease will be displayed
     print("Suspected disease: ",results[0].upper(),"\n")
